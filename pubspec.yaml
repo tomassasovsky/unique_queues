@@ -1,7 +1,7 @@
 name: unique_queues
 description: A Dart package that lets you keep a list of queues for specified key values.
 version: 0.0.0+1
-publish_to: none
+homepage: https://github.com/tomassasovsky/unique_queues
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
